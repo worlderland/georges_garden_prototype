@@ -2,6 +2,14 @@
   border: 1px solid red;
 }
 
+.google-maps {
+  padding-bottom: 30vh;
+}
+
+.google-maps iframe {
+  height: 30vh;
+}
+
 footer {
-  background-color: #555;
+  background-color: #777;
 }
